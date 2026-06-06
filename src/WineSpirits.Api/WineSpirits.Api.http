@@ -1,0 +1,6 @@
+@WineSpirits.Api_HostAddress = http://localhost:5206
+
+GET {{WineSpirits.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
