@@ -29,3 +29,7 @@ app.MapGet("/health", () => Results.Ok(new
 .WithOpenApi();
 
 app.Run();
+
+public partial class Program
+{
+}
